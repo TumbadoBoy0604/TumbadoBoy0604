@@ -22,7 +22,7 @@ Autores:
 - [Manuel Gortarez](https://github.com/Mgb64)
 - [Alan Torres](https://github.com/TumbadoBoy0604/)
 
-##Algunos de mis lenguajes favoritos son:
+## Algunos de mis lenguajes favoritos son:
 - C++
 - Java
 - Python
