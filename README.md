@@ -1,34 +1,54 @@
+# Welcome to My GitHub Profile! 👋
 
-# Bienvenido a Mi Perfil de GitHub 👋
-
-## Sobre Mí
+## About Me
 
 👤 **Alan Torres**
 
-- Estudiante de Ciencias de la computacion
-- 📫 Cómo contactarme: **alantorres0604@gmail.com**
+- 🎓 **Computer Science Student**  
+- 💡 Passionate about coding and problem-solving  
+- 📫 **Contact Me:** [alan_torres306@hotmail.com](mailto:alan_torres306@hotmail.com)  
 
+I am a dedicated student exploring various fields in computer science, from data structures to web development, while continuously improving my technical skills and collaborating on meaningful projects.
 
-## Mis Proyectos
+---
 
+## Projects
 
-### Simulacion-de-gas-de-Van-der-Waals
+### 🚀 **Van der Waals Gas Simulation**  
+A GUI project written in Java during my second year of college. This simulation models a Van der Waals gas inside a piston, showcasing advanced mathematical modeling and interactive design.  
+- 🖥️ **Technologies:** Java, GUI Development  
+- 📘 [Documentation and code here](https://github.com/TumbadoBoy0604/Simulacion-del-gas-de-Van-der-Waals)
 
-Este proyecto simula los comportamientos de un gas según el modelo de Van der Waals, tomando en cuenta tanto el tamaño y la interacción de las moléculas entre ellas, puedes echar un vistazo más profundo al proyecto [aquí](https://github.com/Harico04/Simulacion-de-gas-de-Van-der-Waals.git)
+---
 
-Autores:
+### 🌳 **B* Tree Implementation**  
+An implementation of the B* Tree data structure in C++, focusing on efficient key distribution and space utilization. This project explores advanced concepts in data structures and their applications in database systems.  
+- 🖥️ **Technologies:** C++, Object-Oriented Programming  
+- 📘 [Details and code here]([https://github.com/YourRepo](https://github.com/TumbadoBoy0604/Simulacion-de-gas-de-Van-der-Waals))
 
-- [Fausto Medina](https://github.com/Harico04)
-- [Manuel Gortarez](https://github.com/Mgb64)
-- [Alan Torres](https://github.com/TumbadoBoy0604/)
+---
 
-## Algunos de mis lenguajes favoritos son:
-- C++
-- Java
-- Python
+### 🎫 **Treyo**  
+A ticketing app inspired by Trello, developed as part of the "Software Engineering 2" course. Built with a Django backend and a React frontend, it showcases collaborative software engineering techniques like feature-based branching.  
+- 🖥️ **Technologies:** Django, React, REST API  
+- 📘 [Repository link]([https://github.com/YourRepo](https://github.com/TumbadoBoy0604/Simulacion-de-gas-de-Van-der-Waals))
 
-## Actualmente aprendiendo
-- Desarrollo web
-- Ciencias de datos
+---
 
+## 🖥️ Favorite Languages
+Here are some of the languages I enjoy working with:  
+- C++  
+- Java  
+- Python  
+- Racket  
 
+---
+
+## 📚 Currently Learning
+I am always eager to learn new technologies! Currently, I am focusing on:  
+- 🌐 **Web Development** (Frontend and Backend)  
+- 🗂️ **Database Design and Optimization**  
+
+---
+
+Feel free to explore my repositories and reach out if you’d like to collaborate! 😊
