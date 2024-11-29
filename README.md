@@ -8,7 +8,7 @@
 - 💡 Passionate about coding and problem-solving  
 - 📫 **Contact Me:** [alan_torres306@hotmail.com](mailto:alan_torres306@hotmail.com)  
 
-I am a dedicated student exploring various fields in computer science, from data structures to web development, while continuously improving my technical skills and collaborating on meaningful projects.
+I am a dedicated student exploring various fields in computer science, from data structures to web development, while continuously improving my technical skills and collaborating on -*I am a dedicated student exploring various fields in computer science, from data structures to web development, while continuously improving my technical skills and collaborating on meaningful projects. Soy un apasionado del aprendizaje de lenguajes de programacion.I am a dedicated student exploring various fields in computer science, from data structures to web development, while continuously improving my technical skills and collaborating on meaningful projects. Soy un apasionado del aprendizaje de lenguajes de programacion.meaningful* projects.
 
 ---
 
