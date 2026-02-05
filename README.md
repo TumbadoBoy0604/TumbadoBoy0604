@@ -1,54 +1,52 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile 👋
 
 ## About Me
 
-👤 **Alan Torres**
+👤 **Alan Torres**  
+🎓 Computer Science student  
+📫 Contact: [alan_torres306@hotmail.com](mailto:alan_torres306@hotmail.com)
 
-- 🎓 **Computer Science Student**  
-- 💡 Passionate about coding and problem-solving  
-- 📫 **Contact Me:** [alan_torres306@hotmail.com](mailto:alan_torres306@hotmail.com)  
-
-I am a dedicated student exploring various fields in computer science, from data structures to web development, while continuously improving my technical skills and collaborating on meaningful projects.
+I am a computer science student focused on **applied artificial intelligence**, with interests in machine learning, computer vision, and data-driven systems. My work emphasizes **evaluation, experimentation, and practical deployment**, particularly under real-world constraints.
 
 ---
 
-## Projects
+## Selected Projects
 
-### 🚀 **Van der Waals Gas Simulation**  
-A GUI project written in Java during my second year of college. This simulation models a Van der Waals gas inside a piston, showcasing advanced mathematical modeling and interactive design.  
-- 🖥️ **Technologies:** Java, GUI Development  
-- 📘 [Documentation and code here](https://github.com/TumbadoBoy0604/Simulacion-de-gas-de-Van-der-Waals)
+### 🔹 [Gototion](https://github.com/Gototion/TAIA_Gototion)
 
----
-
-### 🌳 **B* Tree Implementation**  
-An implementation of the B* Tree data structure in C++, focusing on efficient key distribution and space utilization. This project explores advanced concepts in data structures and their applications in database systems.  
-- 🖥️ **Technologies:** C++, Object-Oriented Programming  
-- 📘 [Details and code here](https://github.com/TumbadoBoy0604/B-star-tree)
+A Telegram-based agent that integrates with Notion databases to automate task logging and management.  
+The system reduces friction in daily task tracking while maintaining structured and consistent records across databases.
 
 ---
 
-### 🎫 **Treyo**  
-A ticketing app inspired by Trello, developed as part of the "Software Engineering 2" course. Built with a Django backend and a React frontend, it showcases collaborative software engineering techniques like feature-based branching.  
-- 🖥️ **Technologies:** Django, React, REST API  
-- 📘 [Repository link](https://github.com/Harico04/Treyo)
+### 🔹 [MeDA Challenge 2025](https://github.com/TumbadoBoy0604/MEDA_Challenge)
+
+Project developed for the MeDA competition at MICAI, focused on domain adaptation from general medical images (MedMNIST) to endoscopic imagery.  
+The proposed approach achieved strong performance, securing **1st place at the national level**.
 
 ---
 
-## 🖥️ Favorite Languages
-Here are some of the languages I enjoy working with:  
-- C++  
-- Java  
-- Python  
-- Racket  
+### 🔹 [Facial Recognition System](https://github.com/TumbadoBoy0604/facial_recognition_system)
+
+A facial recognition system optimized for limited computational resources, designed to provide high-precision access control for a campus laboratory.
 
 ---
 
-## 📚 Currently Learning
-I am always eager to learn new technologies! Currently, I am focusing on:  
-- 🌐 **Web Development** (Frontend and Backend)  
-- 🗂️ **Database Design and Optimization**  
+### 🔹 [Van der Waals Gas Simulation](https://github.com/TumbadoBoy0604/Simulacion-de-gas-de-Van-der-Waals)
+
+A GUI-based simulation written in Java during my second year of college.  
+The project models the behavior of a Van der Waals gas inside a piston, combining mathematical modeling with interactive visualization.
 
 ---
 
-Feel free to explore my repositories and reach out if you’d like to collaborate! 😊
+## Main Interests
+
+- Computer vision
+- Generative AI
+- Agentic models
+- Cloud deployment
+- Physics-based simulations
+
+---
+
+Feel free to explore my repositories or reach out if you’re interested in collaboration.
